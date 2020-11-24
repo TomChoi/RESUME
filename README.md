@@ -1,6 +1,6 @@
 ## 소개
 
-<center><img src="./image/profile.jpeg" width="250" height="200"></center>
+<center><img src="./images/profile.jpeg" width="250" height="200"></center>
 
 - 이름: 최재성
 
