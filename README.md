@@ -34,7 +34,7 @@
 
   - KR(10-2016-0154366), US(15/356530)
 
-    
+
 
 ## SKILLS
 
@@ -59,30 +59,32 @@
 ## PROJECTS
 
 - #### Music Streaming SDK (June, 2019 ~ November, 2020)
-  - Implemented Object, Channel, Ambisonics Renderer using C/C++ with TDD
-  
-  - Debug PCM data issues
-  
-  - Experienced AOSP to implement audio libraries using AudioEffects
-  
-- Porting audio libraries to Qualcomm QCC5121 and Hexagon DSP
-  
-  - Porting Music Streaming library to Android, Mac, iOS, Unity
-  
-  - Optimize code using intrinsic functions in Hexagon SDK
-  
-    
-  
-- #### Immersive Audio SDK (January, 2018 ~ January, 2019)
   - Implemented Loudness Normalizer, Spatial Upmix, ELEQ using C/C++ with TDD
-  
+
+  - Debug PCM data issues
+
+  - Experienced AOSP to implement audio libraries using AudioEffects
+
+  - Porting audio libraries to Qualcomm QCC5121 and Hexagon DSP
+
+  - Porting Music Streaming library to Android, Mac, iOS, Unity
+
+  - Optimize code using intrinsic functions in Hexagon SDK
+
+
+
+- #### Immersive Audio SDK (January, 2018 ~ January, 2019)
+  - Implemented Object, Channel, Ambisonics Renderer using C/C++ with TDD
+
   - Building multi platform environment using CMake and bash scripts
 
   - Implemented CI/CD system using Jenkins and Artifactory
-  
-    
-  
+
+
+
 - #### GPlayer (August, 2016 ~ December, 2017)
   - Implemented 360 video player for Android using Exoplayer, OpenGL, OpenSL ES
+
   - Implemented VR audio solution and integrated to GPplayer
+  
   - Integrated to Vive, Oculus, Cardboard, GearVR
