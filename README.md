@@ -65,11 +65,11 @@
 
   - Debug PCM data issues
 
-  - Experience AOSP to implement audio libraries using AudioEffects
+  - Integrate Music Streaming library to Android audio framework as AudioEffects
 
-  - Porting audio libraries to Qualcomm QCC5121 and Hexagon DSP
+  - Porting Music Streaming library to Hexagon DSP
 
-  - Porting Music Streaming library to Android, Mac, iOS, Unity
+  - Bring up QCC5121 development board
 
   - Optimize code using intrinsic functions in Hexagon SDK
 
