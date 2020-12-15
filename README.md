@@ -45,8 +45,7 @@
 
 ### Android
 
-- Java / JNI / Exoplayer / OpenSL ES
-- Android audio framework
+- Java / JNI / Exoplayer / OpenSL ES / Android audio framework
 
 ### Unity
 
@@ -56,14 +55,17 @@
 
 - Git / Slack / Jira / Confluence / Jenkins / Artifactory
 
+
+
 ## PROJECTS
 
 - #### Music Streaming SDK (June, 2019 ~ November, 2020)
-  - Implemented Loudness Normalizer, Spatial Upmix, ELEQ using C/C++ with TDD
+
+  - Implement Loudness Normalizer, Spatial Upmix, ELEQ using C/C++ with TDD
 
   - Debug PCM data issues
 
-  - Experienced AOSP to implement audio libraries using AudioEffects
+  - Experience AOSP to implement audio libraries using AudioEffects
 
   - Porting audio libraries to Qualcomm QCC5121 and Hexagon DSP
 
@@ -73,18 +75,22 @@
 
 
 
-- #### Immersive Audio SDK (January, 2018 ~ January, 2019)
-  - Implemented Object, Channel, Ambisonics Renderer using C/C++ with TDD
+- #### Immersive Audio SDK (August, 2016 ~ January, 2019)
+
+  - Implement Object, Channel, Ambisonics Renderer using C/C++ with TDD
 
   - Building multi platform environment using CMake and bash scripts
 
-  - Implemented CI/CD system using Jenkins and Artifactory
+  - Implement CI/CD system using Jenkins and Artifactory
+
+  - Created immersive video player for Android using Exoplayer, OpenGL, OpenSL ES
 
 
 
-- #### GPlayer (August, 2016 ~ December, 2017)
-  - Implemented 360 video player for Android using Exoplayer, OpenGL, OpenSL ES
+- #### Developed and Maintained Demo (June, 2015 ~ July, 2016)
 
-  - Implemented VR audio solution and integrated to GPplayer
-  
-  - Integrated to Vive, Oculus, Cardboard, GearVR
+  - Create immersive audio simulation demo using Unity Native Audio Plugin
+
+  - Change demo ui for specific customer
+
+  - Integrate VR SDK for devices(Oculus, Vive, GearVR) into demo.
