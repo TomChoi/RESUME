@@ -93,4 +93,4 @@
 
   - Change demo ui for specific customer
 
-  - Integrate VR SDK for devices(Oculus, Vive, GearVR) into demo.
+  - Integrate VR SDK for devices(Oculus, Vive, GearVR) into demo
